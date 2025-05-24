@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 """
 Matrix Operations Module
-
 functions for matrix operations including matrix transposition.
-operation flips a matrix over its main diagonal, switching row and column indices.
 """
 
 
