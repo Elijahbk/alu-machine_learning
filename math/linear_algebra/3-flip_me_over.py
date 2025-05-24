@@ -2,9 +2,10 @@
 """
 Matrix Operations Module
 
-This module provides functions for matrix operations including matrix transposition.
-The transpose operation flips a matrix over its main diagonal, switching row and column indices.
+functions for matrix operations including matrix transposition.
+operation flips a matrix over its main diagonal, switching row and column indices.
 """
+
 
 def matrix_transpose(matrix):
     # Determine the number of rows and columns in the original matrix
