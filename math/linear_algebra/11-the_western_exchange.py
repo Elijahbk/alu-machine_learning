@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-import numpy as np
+"""Demonstration numpy transpose method"""
+
 
 def np_transpose(matrix):
-    return matrix.transpose()
+    """Perform transpose of matrix"""
+    return matrix.T
