@@ -35,3 +35,10 @@ def correlation(C):
 
     return correlation_matrix
 
+
+# If you'd like to test the function:
+# if __name__ == '__main__':
+#     C = np.array([[36, -30, 15], [-30, 100, -20], [15, -20, 25]])
+#     Co = correlation(C)
+#     print(C)
+#     print(Co)
